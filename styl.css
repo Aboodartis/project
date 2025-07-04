@@ -1,0 +1,13 @@
+div{
+    display: inline-block;
+    color: white;
+    background-color: gray;
+    height: 300px;
+    width: 300px;
+}
+#pop{
+    opacity:0;
+}
+.hidden{
+    display: none;
+}
